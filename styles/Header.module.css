@@ -1,0 +1,11 @@
+.header {
+    background-color: blueviolet;
+    height: 100vh;
+    height: 100px;
+}
+
+.title {
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
