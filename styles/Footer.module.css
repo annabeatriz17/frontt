@@ -10,3 +10,10 @@
         width: 100%;
     }
 }
+
+@media (max-width: 480px) {
+    .footer {
+        height: 100px;
+        width: 150%;
+	}
+}

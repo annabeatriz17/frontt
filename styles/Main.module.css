@@ -46,3 +46,20 @@
         padding: 50px;
     }
 }
+@media (max-width: 480px) {
+    .quadrado {
+        width: 150%;
+        height: 50rem;
+        display: flex;
+    }
+    .card {
+        width: 300%;
+        height: 20%;
+        margin: 50px;
+    }
+    .retangulo img {
+        width: 20rem;
+        height: 15rem;
+        margin: 35%;
+    }
+}
