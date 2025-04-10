@@ -29,3 +29,20 @@
     height: 30rem;
     padding: 50px;
 }
+
+@media (max-width: 1024px) {
+    .quadrado {
+        width: auto;
+        height: 100%;
+    }
+    .card {
+        width: 400px;
+        height: 100px;
+        margin: 50px;
+    }
+    .retangulo img {
+        width: 25rem;
+        height: 20rem;
+        padding: 50px;
+    }
+}
