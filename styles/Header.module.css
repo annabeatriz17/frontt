@@ -19,3 +19,8 @@
         font-size: 30px;
     }
 }
+@media (max-width: 480px) {
+    .header {
+        width: 100%;
+    }
+}
